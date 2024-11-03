@@ -1,19 +1,19 @@
 [ 
   {
-    "day": 3,
-    "image": "prads.jpg",
+    "day": 1,
+    "image": "assets/images/prads.jpg",
     "description": "Warmth and coziness.",
     "affirmation": "Find comfort in every moment."
   },
   {
     "day": 2,
-    "image": "2024-03-20_prads.jpg",
-  "description": "A beautiful start to the season!",
+    "image": "assets/images/2024-03-20_prads.jpg",
+    "description": "A beautiful start to the season!",
     "affirmation": "Embrace the joy in each new day."
   },
   {
     "day": 3,
-    "image": "day3.jpg",
+    "image": "assets/images/day3.jpg",
     "description": "Warmth and coziness.",
     "affirmation": "Find comfort in every moment."
   },

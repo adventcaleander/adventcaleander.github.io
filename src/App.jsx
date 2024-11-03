@@ -1,6 +1,6 @@
-import React from 'react';
-import Calendar from './components/Calendar.jsx';
-import Modal from './components/Modal.jsx';
+import React from 'react'
+import Calendar from './components/Calendar'
+import Modal from './components/Modal'
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <Calendar />
       <Modal />
     </div>
-  );
+  )
 }
 
-export default App; 
+export default App

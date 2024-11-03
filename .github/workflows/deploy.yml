@@ -30,3 +30,4 @@ jobs:
           folder: dist
           branch: gh-pages
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          clean: true
